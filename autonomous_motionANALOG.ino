@@ -16,7 +16,7 @@
  on 10 Nov 2012.
  */
 /*
- Further edited by AhmadC for Autonomous Motion
+ Further edited by AhmadC for Autonomous Motion application
  */
 
 const int LeftmotorPin1 = 12; // Assign Digital pin 12 of Arduino to Left Motor Pin1
