@@ -2,7 +2,7 @@
 ### Overview
 An autonomous robot developed with the use of three ultrasonic HC-SR04 sensors
 <img src="/Images/robot2.jpg" alt="Robot"
-	title="Robot View"/>
+	title="Robot View" width="300" height="300"/>
   
 ### Sensors
 The Arduino microcontroller is connected to 3 HC-SR04 sensors. One at the front, and one on either side. These three sensors provide the robot with information about its surroundings, based off which it's able to navigate environments autonomously
