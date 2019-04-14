@@ -15,5 +15,11 @@ The robot as programmed using Arduino, essentially using C++/C as the Arduino la
 * Adding sensors at the back to increase robot awareness and receive more data regarding its surroundings
 * Cleaning up wiring and creating a more sleek, streamlined physical design
 
+### Formats
+Both the digital and analog program files exist within this repository. 
+The digital file writes to the motors using discrete HIGH and LOW values. 
+The analog file writes to the motors using continuous values between 0 and 255, allowing for a more precise write. 
+When I first used the digital values, the robot would not navigate in a perfectly straight path, and so I utliised analog values and callibrated the motor writes so that the robot would follow a straighter path.
+
 ### Image
 ![Robot](/Images/robot.jpg)
