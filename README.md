@@ -22,7 +22,7 @@ The digital file writes to the motors using discrete HIGH and LOW values.
 
 The analog file writes to the motors using continuous values between 0 and 255, allowing for a more precise write. 
 
-When I first used the digital values, the robot would not navigate in a perfectly straight path, and so I utliised analog values and callibrated the motor writes so that the robot would follow a straighter path.
+When I first used the digital values, the robot would not navigate in a perfectly straight path, and so I utilised analog values and callibrated the motor writes so that the robot would follow a straighter path.
 
 ### Image
 ![Robot](/Images/robot.jpg)
